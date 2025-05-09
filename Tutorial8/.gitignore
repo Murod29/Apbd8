@@ -1,0 +1,21 @@
+﻿# Rider project
+.idea/
+.vs/
+*.user
+
+# Build results
+bin/
+obj/
+
+# ASP.NET Core secrets
+appsettings.json
+appsettings.*.json
+
+# OS generated files
+*.DS_Store
+Thumbs.db
+
+# SQL backups (optional)
+*.bak
+*.mdf
+*.ldf
